@@ -16,7 +16,7 @@ body {
   background-color: #fdfdfd;
 }
 
-h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
+h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 800; }
 
 a         { color: #2a7ae2; text-decoration: none; }
 a:hover   { color: #000; text-decoration: underline; }
@@ -199,7 +199,7 @@ a:visited { color: #205caa; }
 
 .post-content h2 {
   font-size: 32px;
-  font-weight: 500;
+  font-weight: 800;
   letter-spacing: -1.25px;
 }
 
@@ -395,7 +395,7 @@ a:visited { color: #205caa; }
   }
 
   .post-header h1 { font-size: 36px; }
-  .post-content h2 { font-size: 28px; }
+  .post-content h2 { font-size: 28px; font-weight: 800}
   .post-content h3 { font-size: 22px; }
   .post-content h4 { font-size: 18px; }
   .post-content blockquote { padding-left: 10px; }
