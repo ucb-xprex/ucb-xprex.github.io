@@ -1,0 +1,11 @@
+# Site settings
+title: XPREX
+email: ucb.xprex@gmail.com
+description: "XPREX Project at the University of California Berkeley"
+baseurl: ""
+url: "http://ucb-xprex.github.io"
+github_username:  ucb-xprex
+
+# Build settings
+markdown: kramdown
+permalink: pretty
