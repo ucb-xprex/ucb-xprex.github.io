@@ -14,5 +14,5 @@ The X-Ray Pebble Tomography Software (XPETS) is open source and can be found on 
 ![Software Render]({{ site.url }}/assets/render2_image.PNG)
 
 ## Authors
-Grant Buster
+Grant Buster  <br />
 Mike Laufer
