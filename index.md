@@ -1,6 +1,5 @@
 ---
 layout: default
-title: XPREX
 ---
 
 ## About XPREX
