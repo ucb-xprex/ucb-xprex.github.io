@@ -4,10 +4,14 @@ title: XPREX
 ---
 
 ## About XPREX
-XPREX is an X-Ray Pebble Tomography experiment....
+The X-Ray Pebble Recirculation Experiment (XPREX) is a multi-use pebble tomography experiment. XPREX aims to further develop the understanding of pebble fuel behavior in pebble-bed reactor cores. 
+
+![Facility Image]({{ site.url }}/assets/facility_image.PNG)
 
 ## XPREX Software
-The software for analyzing data with XPREX is open source and can be found [on GitHub](https://github.com/ucb-xprex).
+The X-Ray Pebble Tomography Software (XPETS) is open source and can be found [on GitHub](https://github.com/ucb-xprex).
+
+![Software Render]({{ site.url }}/assets/render2_image.PNG)
 
 ## Authors
 Grant Buster
