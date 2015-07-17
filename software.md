@@ -17,4 +17,4 @@ Below are resources for XPETS users:
 
 - [XPETS Module Definitions and Data Structures]({{ site.url }}/assets/xpets_definitions_datastructs.pdf)
 - [XPETS Module2 Code Manual]({{ site.url }}/assets/xpets_module2_manual.pdf)
-- [XPETS Experimental Code Manual] ({{ site.url }}/assets/xpets_experimental_code_manual.pdf)
+- [XPETS Experimental Code Manual]({{ site.url }}/assets/xpets_experimental_code_manual.pdf)
