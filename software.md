@@ -9,7 +9,7 @@ The X-Ray Pebble Tomography Software (XPETS) is a 3-module code written in MATLA
 - Module 2 calculates the system geometry from calibration images, and reconstructs the 3D pebble bed.
 - Module 3 generates pebble displacement data from multiple 3D pebble bed reconstruction.
 
-![Tomography Image]({{ site.url }}/assets/module2_reconstruct_image.PNG)
+![Tomography]({{ site.url }}/assets/3D.jpg)
 
 XPETS is open source and can be found on [GitHub](https://github.com/ucb-xprex/xpets).
 
